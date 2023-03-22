@@ -1,0 +1,1 @@
+MVC --> Models(acts as bridge, passes the updated value to those who are using in Views), Views(requests the Controllers to update), Controllers(passes the update to models)
